@@ -1,0 +1,44 @@
+<!doctype html>
+<html class="no-js" lang="">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<title>Edunet Development High School</title>
+<meta name="description" content="Edunet Development High School">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://necolas.github.io/normalize.css/3.0.2/normalize.css">
+<link rel="stylesheet" href="shared/main.css">
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js"></script> 
+<script src="shared/js/scripts.js"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+<!-- Header Start -->
+<div id="header">
+  <div class="inside">
+	<div class="top-nav">
+		<div class="fl_right">
+		  <ul class="nospace">
+			<li><i class="fas fa-mobile-alt rgtspace-5"></i> +00 (123) 456 7890</li>
+			<li><i class="far fa-envelope rgtspace-5"></i> info@domain.com</li>
+		  </ul>
+		</div>
+	</div>
+  </div>
+</div>
+<!-- Header End --> 
+
+<!-- content Start -->
+<div id="content">
+  <div class="inside"> Welocme to this school. </div>
+</div>
+<!-- content End --> 
+
+<!-- footer Start -->
+<div id="footer">
+  <div class="inside"> <!-- Do Not Change Anything Here --> </div>
+</div>
+<!-- footer End -->
+
+</body>
+</html>
